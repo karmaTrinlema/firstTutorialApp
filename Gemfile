@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
+ruby "1.9.3" #(-p484C:\RailsInstaller\Ruby1.9.3\bin\ruby.exe)
 
 gem 'rails', '3.2.16'
+
+gem 'heroku'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -32,7 +35,7 @@ gem 'jquery-rails'
 # gem 'unicorn'
 
 # Deploy with Capistrano
-gem 'capistrano'
+#gem 'capistrano'
 
 # To use debugger
 # gem 'debugger'
