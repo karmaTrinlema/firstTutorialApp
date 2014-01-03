@@ -3,8 +3,6 @@ ruby "1.9.3" #(-p484C:\RailsInstaller\Ruby1.9.3\bin\ruby.exe)
 
 gem 'rails', '3.2.16'
 
-gem 'heroku'
-
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
